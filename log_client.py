@@ -47,6 +47,6 @@ for fight in fights:
         print(fight)
 #print(client.fight("w3BgN7ZTQfmH6hXt")["fights"])
 debuffs = client.debuffs("w3BgN7ZTQfmH6hXt")
-print(debuffs.keys())
+print(debuffs)
 #for debuf in debuffs:
 #    print(debuf)
